@@ -3,7 +3,7 @@
 ### Why the library in my repository？
 
 Most Android picker is pop or dialog,but this library can contain in view actually is you can use it in xml not the dialog.
-My custom number picker see # DatePicker-XML/datepicker/src/main/java/com/ycuwq/datepicker/date/CustomPicker.kt
+My custom number picker see # datepicker/src/main/java/com/ycuwq/datepicker/date/CustomPicker.kt
 
 ### <--------------------------- The Bottom is origin Author Edit --------------------------->
 
